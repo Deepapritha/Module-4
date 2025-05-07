@@ -7,7 +7,7 @@
 To create a Python program that prompts the user for a list of grades separated by commas, splits the string into individual grades, and uses exception handling to inform the user if the values they entered cannot be converted to integers.
 
 ---
-
+ 
 ### ALGORITHM
 
 1. Begin the program.  
